@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/matthew/Desktop/PCS"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/matthew/Desktop/WebDev"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
