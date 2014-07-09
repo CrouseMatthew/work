@@ -60,7 +60,7 @@
 											<table class="center" width="200" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color:#1C1F2A;">
 												<tr>
 													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #000; padding: 0 0 20px 0">
-														<img boder="0" alt="OneLogin Logo" src="http://get.onelogin.com/rs/onelogin/images/logo-onelogin-white.png"></td>
+														<img border="0" alt="OneLogin Logo" src="http://get.onelogin.com/rs/onelogin/images/logo-onelogin-white.png"></td>
 												</tr>
 											</table>
 										</td>
@@ -96,12 +96,12 @@
 										<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="border-collapse:collapse; text-align:left;">
 											<tr>
 												<td style="padding:25px 0px 0px 0px;">
-													<div class="mktEditable" id="welcomeIntro"><h1 style="font-family: Arial, helvetica, sans-serif; font-size: 26px; font-weight: bold; margin-bottom:0.5em; text-align:center;">
-														Welcome to OneLogin.
-													</h1></div>
-													<h1 style="font-family: Arial, helvetica, sans-serif; font-size: 20px; font-weight: bold;text-align:center;">
-														<div class="mktEditable" id="subjIntro">Get Started with Your Free Account</div>
-													</h1>
+													<div class="mktEditable" id="welcomeIntro">
+														<h1 style="font-family: Arial, helvetica, sans-serif; font-size: 26px; font-weight: bold; margin-bottom:0.5em; text-align:center;">Welcome to OneLogin.</h1>
+													</div>
+													<div class="mktEditable" id="subjIntro">
+														<h1 style="font-family: Arial, helvetica, sans-serif; font-size: 20px; font-weight: bold;text-align:center;">Get Started with Your Free Account</h1>
+													</div>
 												</td>
 											</tr>
 											<tr>
@@ -109,7 +109,7 @@
 													<hr>
 													<br>
 													<div class="mktEditable" id="greeting">
-														Hi [First Name],
+														Hi{{lead.First Name:default=}},
 														<br>
 														Welcome to your Free OneLogin Account. Complete your account setup today. Here are 3 things you need to do:
 													</div>
@@ -122,7 +122,7 @@
 													<table cellpadding="0" cellspacing="0" border="0" align = "left">
 														<tr>
 															<td>
-																<img boder="0" alt="Add Users"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons1.png" style="width:136px;" width="136" align="left"></td>
+																<img border="0" alt="Add Users"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons1.png" style="width:136px;" width="136" align="left"></td>
 														</tr>
 													</table>
 													<div align="left">
@@ -135,9 +135,9 @@
 																	<table cellpadding="4px 0" cellspacing="2" border="0" >
 																		<tr>
 																			<td style= "padding-bottom: 0px;  mso-table-lspace:0; mso-table-rspace:0;">
-																				<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">
-																					<div class="mktEditable" id="subjOne">1. Add Users:</div>
-																				</h3>
+																				<div class="mktEditable" id="subjOne">
+																					<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">1. Add Users:</h3>
+																				</div>
 																			</td>
 																		</tr>
 
@@ -161,7 +161,7 @@
 													<table cellpadding="0" cellspacing="0" border="0" align = "left">
 														<tr>
 															<td>
-																<img boder ="0" alt="Add Apps"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons2.png" style="width:130px;" width="130" align="left"></td>
+																<img border="0" alt="Add Users"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons2.png" style="width:136px;" width="136" align="left"></td>
 														</tr>
 													</table>
 													<div align="left">
@@ -173,17 +173,18 @@
 																<td>
 																	<table cellpadding="4px 0" cellspacing="2" border="0" >
 																		<tr>
-																			<td style= "padding-bottom: 0px; mso-table-lspace:0; mso-table-rspace:0;">
-																				<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">
-																					<div class="mktEditable" id="subjTwo">2. Add Apps:</div>
-																				</h3>
+																			<td style= "padding-bottom: 0px;  mso-table-lspace:0; mso-table-rspace:0;">
+																				<div class="mktEditable" id="subjTwo">
+																					<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">2. Add Apps:</h3>
+																				</div>
 																			</td>
 																		</tr>
+
 																	</table>
 																</td>
 															</tr>
 															<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 14px; line-height: 1.5em; padding: 1em 0em 0em 0em; width: 350px; padding:4px">
-																<div class="mktEditable" id="subjTwoText">
+																<div class="mktEditable" id="subjTWoText">
 																	OneLogin is pre-integrated with over 3,000 apps. In seconds, secure all the apps that matter to your business.
 																</div>
 															</td>
@@ -195,11 +196,11 @@
 
 											<!-- Call To Action Add Browser extensions -->
 											<tr>
-												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 14px; line-height: 1.5em; padding: .5em 0em 1em 0em;">
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 14px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
 													<table cellpadding="0" cellspacing="0" border="0" align = "left">
 														<tr>
 															<td>
-																<img boder ="0" alt="Add Browser Extensions"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons3.png" style="width:136px;" width="136" align="left"></td>
+																<img border="0" alt="Add Users"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/Email_Icons3.png" style="width:136px;" width="136" align="left"></td>
 														</tr>
 													</table>
 													<div align="left">
@@ -211,12 +212,13 @@
 																<td>
 																	<table cellpadding="4px 0" cellspacing="2" border="0" >
 																		<tr>
-																			<td style= "padding-bottom: 0px; mso-table-lspace:0; mso-table-rspace:0;">
-																				<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">
-																					<div class="mktEditable" id="SubjThree">3. Add Browser Extensions:</div>
-																				</h3>
+																			<td style= "padding-bottom: 0px;  mso-table-lspace:0; mso-table-rspace:0;">
+																				<div class="mktEditable" id="subjThree">
+																					<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 16px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">3. Add Browser Extensions:</h3>
+																				</div>
 																			</td>
 																		</tr>
+
 																	</table>
 																</td>
 															</tr>
@@ -284,8 +286,5 @@
 				</table>
 			</table>
 			<!--End Graphics-->
-		</td>
-	</tr>
-</table>
 </body>
 </html>

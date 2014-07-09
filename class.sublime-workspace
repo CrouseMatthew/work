@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"repla",
+				"replaceChild	jsDOM"
+			],
+			[
+				"remove",
+				"removeChild	jsDOM"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
 				"proce",
 				"process.argv"
 			],
@@ -68,10 +88,6 @@
 				"presents  (variable)"
 			],
 			[
-				"font",
-				"font-size"
-			],
-			[
 				"i",
 				"italic"
 			],
@@ -88,10 +104,6 @@
 				"font-size"
 			],
 			[
-				"v",
-				"visibility"
-			],
-			[
 				"mar",
 				"margin-top"
 			],
@@ -106,10 +118,6 @@
 			[
 				"b",
 				"bolder"
-			],
-			[
-				"padding",
-				"padding-left"
 			],
 			[
 				"min-",
@@ -140,51 +148,70 @@
 	"buffers":
 	[
 		{
-			"contents": "<p  ></p>\n<div style=\"MARGIN-LEFT: 1em\">\n<div style=\"MARGIN-RIGHT: 1em\">\n<p >在 Philips，他们的使命就是通过协同创新和产品开发环境，转变业务，改善人们的生活。观看最新的 <a href=\"http://<elqdomain type=1/>/e/er?s=<span class=eloquaemail>siteid</span>&lid=4766&elq=<span class=eloquaemail>recipientid</span>\">Philips 视频</a>了解他们如何做到这一点。 <br></p>\n<p >通过在各个业务部门（医疗保健、照明和消费者生活方式）使用此协同方法，该公司能够缩短产品开发时间，最终缩短产品上市时间。<br></p>\n<p >\n\n\n\n\n\n<style type=\"text/css\">p { margin-bottom: 0.1in; direction: ltr; color: rgb(0, 0, 0); line-height: 120%; widows: 2; orphans: 2; }p.western { font-family: \"Calibri\",sans-serif; font-size: 11pt; }p.cjk { font-family: \"Calibri\",sans-serif; font-size: 11pt; }p.ctl { font-family: \"Times New Roman\",serif; font-size: 11pt; }a:link { color: rgb(0, 0, 255); }</style></p>\n<div style=\"MARGIN-LEFT: 1em\">\n<div style=\"MARGIN-RIGHT: 1em\">\n<ul></ul></div></div>\n<p >您的公司是否为业务转型做好准备？<a href=\"http://<elqdomain type=1/>/e/er?s=<span class=eloquaemail>siteid</span>&lid=3784&elq=<span class=eloquaemail>recipientid</span>\"></a></p>\n<p >\n<table cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr>\n<td style=\"DISPLAY: block; COLOR: #ffffff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px\" align=\"center\" bgcolor=\"#009cde\" height=\"28\" width=\"181\"><a style=\"LINE-HEIGHT: 28px; WIDTH: 95%; DISPLAY: inline-block; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: #ffffff; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none\" href=\"http://<elqdomain type=1/>/e/er?s=<span class=eloquaemail>siteid</span>&lid=4760&elq=<span class=eloquaemail>recipientid</span>\">观看视频</a></td></tr></tbody></table></p>\n<p ><font color=\"#53565a\" face=\"arial, helvetica, sans-serif\" size=\"2\">有关业务转型的详细信息，请访问我们的<a href=\"http://<elqdomain type=1/>/e/er?s=<span class=eloquaemail>siteid</span>&lid=4765&elq=<span class=eloquaemail>recipientid</span>\">资源中心</a> <br></font></p>\n</div></div>",
+			"file": "notesHW8",
 			"settings":
 			{
-				"buffer_size": 1851,
-				"line_ending": "Unix",
-				"name": "<p  ></p>"
-			}
-		},
-		{
-			"contents": "Nessun riposo per i leader. La trasformazione dei leader \n\nhttp://www.ptc.com/WCMS/files/158283/en/EE_SystemsEngineering_ebook_final.pdf\n\nMaggiore complessità dei prodotti con una riduzione delle pianificazioni del 40%: scoprite come\n\nAl giorno d'oggi, è possibile che il livello di intelligenza più elevato presente in una stanza non sia umano. Grazie a importanti innovazioni e rapidi cambiamenti, i prodotti stanno diventando sistemi di sistemi più intelligenti, interconnessi e ad elevato impiego di software. Con queste innovazioni, tuttavia, le problematiche associate alla complessità dello sviluppo prodotto aumentano e possono compromettere il successo.\n\nScaricate l'articolo System Engineering: procedura critica per distribuire con successo prodotti intelligenti per scoprire come il System Engineering può e deve adattarsi per risolvere le seguenti problematiche:\n\nIncremento del costo dello sviluppo e del time-to-market\nMaggiori rischi e qualità inferiore\nOstacoli all'innovazione\n\nSystem Engineering: procedura critica per distribuire con successo prodotti intelligenti \n\nhttp://www.ptc.com/solutions/systems-engineering/\n\nPer ulteriori informazioni sul System Engineering, visitate il centro risorse \n\n\n\n\nhttp://www.ptc.com/WCMS/files/158283/en/EE_SystemsEngineering_ebook_final.pdf/?l9=IT&src=systemsengineering",
-			"file": "scratch.txt",
-			"file_size": 930,
-			"file_write_time": 130493260077577450,
-			"settings":
-			{
-				"buffer_size": 1328,
+				"buffer_size": 5814,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<p >\n  <table cellpadding=\"0\" cellspacing=\"0\">\n    <tbody>\n      <tr>\n        <td style=\"DISPLAY: block; COLOR: #ffffff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px\" align=\"center\" bgcolor=\"#009cde\" height=\"28\" width=\"181\">\n          <a style=\"LINE-HEIGHT: 28px; WIDTH: 95%; DISPLAY: inline-block; FONT-FAMILY: Helvetica, Arial, sans-serif; COLOR: #ffffff; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none\" href=\"http://<elqdomain type=1/>/e/er?s=<span class=eloquaemail>siteid</span>&lid=4816&elq=<span class=eloquaemail>recipientid</span>\">BLKASDFLKjd the article</a><br><br>\n      </td>\n    </tr>\n  </tbody>\n</table>\n</p>",
-			"file": "scratch.html",
-			"file_size": 2815,
-			"file_write_time": 130493273615937610,
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattTicTacToe.html",
 			"settings":
 			{
-				"buffer_size": 661,
+				"buffer_size": 709,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "notes.txt",
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattMain.js",
 			"settings":
 			{
-				"buffer_size": 93,
+				"buffer_size": 783,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "http://www.ptc.com/view?im_dbkey=157196\n\n\nhttp://www.ptc.com/view?im_dbkey=157196&l9=FR&src=banner",
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattModel.js",
 			"settings":
 			{
-				"buffer_size": 98,
-				"line_ending": "Unix",
-				"name": "http://www.ptc.com/view?im_dbkey=157196"
+				"buffer_size": 2275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/tictactoe-model-template.js",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nfunction mark (address, sym){\n	var addressString =String(address);\n	var symString = String(sym);\n	var element = document.getElementById(addressString);\n	element.textContent = symString.toUpperCase();\n}\n\n\n\nvar TicTacToeGui = function() { //module returning constructor:\n\nvar array = [\"x0y0\",\"x1y0\",\"x2y0\",\"x0y1\", \"x1y1\", \"x2y1\",\"x0y2\",\"x1y2\",\"x2y2\"];\n\n		function clear(){\n			for(var i =0; i < array.length; ++i ){\n				var element = document.getElementById(array[i]);\n				if(element.textContent !== ''){\n					element.textContent =\"\";\n				\n				}\n			}\n\n		}\n\n\nfunction mark (address, sym){\n	String(address);\n	String(sym);\n	var element = document.getElementById(address);\n	element.textContent = sym.toUpperCase();\n}\n\n\n 	// more code...\n	return Constructor;	// return TTT gui constructor\n}();\n\n\n",
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattGUI.js",
+			"file_size": 790,
+			"file_write_time": 130492425491904394,
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattTicTacToe.css",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/README.md",
+			"settings":
+			{
+				"buffer_size": 6389,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -195,20 +222,24 @@
 		"selected_items":
 		[
 			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
 				"tag",
 				"Tag: Auto-Format Tags on Document"
 			],
 			[
 				"sublime linter",
 				"Preferences: SublimeLinter Settings – Default"
-			],
-			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: List Packages"
 			],
 			[
 				"",
@@ -221,10 +252,6 @@
 			[
 				"a",
 				"API-Completion-Package: Settings – User"
-			],
-			[
-				"pac",
-				"Package Control: Install Package"
 			],
 			[
 				"pacl",
@@ -287,7 +314,7 @@
 				"Project: Add Folder"
 			]
 		],
-		"width": 561.0
+		"width": 507.0
 	},
 	"console":
 	{
@@ -310,7 +337,18 @@
 	},
 	"file_history":
 	[
+		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-4/crouse/mattHW4.js",
+		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-5/matt/mattC.js",
+		"/home/matthew/Desktop/PCS/jsHomework/MattTicTacToe.css",
+		"/home/matthew/Desktop/PCS/jsHomework/test.html",
+		"/home/matthew/Desktop/PCS/jsHomework/MattGUI.js",
+		"/home/matthew/Desktop/PCS/jsHomework/MattModel.js",
+		"/home/matthew/Desktop/PCS/jsHomework/MattTicTacToe.html",
+		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-5/MattMaint.js",
+		"/home/matthew/Desktop/work/marketo.html",
 		"/home/matthew/Desktop/work/workNotes.txt",
+		"/home/matthew/Desktop/work/unsub.html",
+		"/home/matthew/Desktop/work/OneLoginFinalCustomUnsub.html",
 		"/home/matthew/Desktop/work/currentV8.html",
 		"/home/matthew/Desktop/work/currentV9.html",
 		"/home/matthew/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
@@ -322,7 +360,6 @@
 		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-5/README.md",
 		"/home/matthew/Desktop/PCS/html email/notes.txt",
 		"/home/matthew/Desktop/work/currentV2.html",
-		"/home/matthew/Desktop/work/OneLoginFinalCustomUnsub.html",
 		"/home/matthew/Desktop/work/currentV3.html",
 		"/home/matthew/Desktop/work/currentV4.html",
 		"/home/matthew/Desktop/PCS/html email/stage_4.2_email_css_mobile.html",
@@ -335,7 +372,6 @@
 		"/home/matthew/Desktop/PCS/html email/stage_2.3_email_html_combined.html",
 		"/home/matthew/Downloads/htmlemails/stage_2.2_email_html_blocks.html",
 		"/home/matthew/Downloads/htmlemails/stage_2.1_email_html_scaffold.html",
-		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-5/matt/mattC.js",
 		"/home/matthew/Downloads/htmlemails/stage_4.2_email_css_mobile.html",
 		"/home/matthew/Desktop/PCS/learnNode/server.js",
 		"/home/matthew/Desktop/PCS/learnNode/module.js",
@@ -344,7 +380,6 @@
 		"/home/matthew/Desktop/PCS/learnNode/fileread.js",
 		"/home/matthew/.config/sublime-text-3/Packages/User/sublime-API-Completions-Package.sublime-settings",
 		"/home/matthew/.config/sublime-text-3/Packages/JavaScript and jQuery API Completions/sublime-API-Completions-Package.sublime-settings",
-		"/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-4/crouse/mattHW4.js",
 		"/home/matthew/Desktop/PCS/js-night/core-js-lessons/exercises/HW3/mattHw3.js",
 		"/home/matthew/Desktop/PCS/learnNode/fileread",
 		"/home/matthew/Desktop/PCS/jsHomework/hw4pic.ora",
@@ -436,6 +471,20 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"x1y0",
+			"x0y0",
+			"textContent",
+			"this.",
+			"[O]",
+			"[X]",
+			"'[O][O][O]'",
+			"'[X][X][X]'",
+			"[X][X][X]",
+			"loginbutton",
+			"mktEditable",
+			"<div class=\"mktEditable\"",
+			"padding: .5em 0em .5em 0em",
+			"1em 0em 1em 0em",
 			"height",
 			"000000",
 			"collapese",
@@ -487,6 +536,16 @@
 		"regex": false,
 		"replace_history":
 		[
+			"value",
+			"",
+			"O",
+			"X",
+			"[O]",
+			"'XXX'",
+			"XXX",
+			"",
+			".2em 0em .2em 0em",
+			".5em 0em .5em 0em",
 			"X",
 			"this.array",
 			"board",
@@ -506,8 +565,8 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
-		"wrap": false
+		"whole_word": false,
+		"wrap": true
 	},
 	"groups":
 	[
@@ -517,34 +576,113 @@
 			[
 				{
 					"buffer": 0,
+					"file": "notesHW8",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1851,
+						"buffer_size": 5814,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								378,
-								378
+								487,
+								487
 							]
 						],
 						"settings":
 						{
 							"BracketHighlighterBusy": false,
-							"auto_name": "<p  ></p>",
+							"auto_name": "",
 							"bh_regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattTicTacToe.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -557,6 +695,87 @@
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattMain.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -565,26 +784,29 @@
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
-								"bh_square_close"
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"is_xml": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -594,20 +816,336 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "scratch.txt",
+					"buffer": 3,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattModel.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1328,
+						"buffer_size": 2275,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1217,
-								1217
+								2207,
+								2207
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/tictactoe-model-template.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							],
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattGUI.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/MattTicTacToe.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/matthew/Desktop/PCS/jsHomework/jsn-sum14-8/README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -662,257 +1200,13 @@
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"is_xml": false,
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "scratch.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 661,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								661,
-								661
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"is_xml": false,
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "notes.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 93,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								93,
-								93
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"is_xml": false,
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 324.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 98,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								98,
-								98
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "http://www.ptc.com/view?im_dbkey=157196",
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -946,7 +1240,7 @@
 		"cols":
 		[
 			0.0,
-			0.494368699425,
+			0.561811505508,
 			1.0
 		],
 		"rows":
@@ -958,13 +1252,13 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 30.0
+		"height": 271.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"project": "PTC.sublime-project",
+	"project": "class.sublime-project",
 	"replace":
 	{
 		"height": 66.0
