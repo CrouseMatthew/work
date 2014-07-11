@@ -1,0 +1,281 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>OneLogin Template</title>
+	<style type="text/css">
+	
+	/*Styling to prevent apple products from having hyper link text on phone numbers.*/
+	.appleLinks a {color:#00A9E0; text-decoration: none;}
+	.appleLinksWhite a {color:#00A9E0; text-decoration: none;}
+    @media only screen and (max-width: 150px)  {
+                    body[yahoo] .deviceWidth {width:440px!important; padding:0px !important; border: 2px solid #1C1F2A !important;}
+                    body[yahoo] .deviceWidth {width:275px!important; padding:0px !important;text-align: center !important;}        
+                    body[yahoo] .center {text-align: center!important;} 
+                    body[yahoo] .mobileHide {display: none!important;}
+                    body[yahoo] .placeholder{max-width:none !important;text-align: center;}
+                    .headerTitle{font-size: 30px !important;}
+                    .headerSubTitle{font-size: 16px !important;}
+                    .toppad{padding:25px 0px 15px 0px !important;}
+                    .bottompad{padding:15px 0px 10px 0px !important;}
+                    .loginbutton{padding: 0px 0 0px 0 !important;}
+                    h3{margin-top:0em !important;}
+
+            }
+            
+    @media only screen and (max-width: 479px) {
+                    body[yahoo] .deviceWidth {width:275px!important; padding:0px !important;text-align: center !important; border: 2px solid #1C1F2A !important;}    
+                    body[yahoo] .deviceHeader {width:275px!important; padding:0px !important;text-align: center !important;}    
+                    body[yahoo] .center {text-align: center!important;} 
+                    body[yahoo] .mobileHide {display: none!important;}
+                    body[yahoo] .placeholder{max-width:none !important;text-align: center;}
+                    .headerTitle{font-size: 28px !important;}
+                    .headerSubTitle{font-size: 14px !important;}
+                    .placeholder{width:150px !important;}
+                    .webLink{font-size: 8px !important;}
+                    .toppad{padding:25px 0px 15px 0px !important;}
+                    .bottompad{padding:15px 0px 10px 0px !important;}
+                    .loginbutton{padding: 0px 0 0px 0 !important;}
+                    h3{margin-top:0em !important;}
+                    ul{padding-left:16px !important;}
+            }
+
+/*    Counter Media Query for Yahoo Mail. Which removes the @media only tag */       
+    @media only screen and (min-width: 641px) {
+                    body[yahoo] .placeholder{max-width:none !important;text-align: center;}
+                    #headerTitle{font-size: !important 35px;}
+                    #headerSubTitle{font-size: !important 18px;}
+                    .placeholder{width:150px !important;}
+                    .toppad{padding:15px 0px 0px 0px !important;}
+                    h3{margin-top:0em !important; font-weight:2000 !important;}
+                    ul{padding-left:14px !important;}
+            }
+</style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" yahoo="fix" style="font-family:helvetica, arial, sans-serif; background-color:#FFFFFF; width:100%; margin:0; padding:0; -webkit-font-smoothing: antialiased;" bgcolor="#FFFFFF">
+	<table class="deviceWidth" align="center" cellpadding="0" bgcolor="#1C1F2A" cellspacing="0" width="550" style="width:550px; background-color:#1C1F2A; padding:0px 20x 0px 20px; border: 20px solid #1C1F2A;">
+		<tr>
+			<td style=" background-color:#1C1F2A;" border="0" cellpadding="0" cellspacing="0">
+
+				<!--pre-header-->
+				<table class="deviceWidth" align="center" border="0" cellpadding="0" cellspacing="0" width="550" style="width:550px; background-color:#1C1F2A;">
+					<tbody border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="toppad" style="padding:25px 25px 0px 25px;">
+
+								<table style="background-color:#1C1F2A;" class="deviceWidth center" width="200" align="left" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="deviceWidth center" align="left" >
+											<table class="center" width="200" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color:#1C1F2A;">
+												<tr>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #000; padding: 0 0 20px 0">
+														<img border="0" alt="OneLogin Logo" src="http://get.onelogin.com/rs/onelogin/images/logo-onelogin-white.png"></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+								<table style="background-color:#1C1F2A; border-collapse:collapse;" class="deviceWidth" width="200" align="right" border="0" cellpadding="0" cellspacing="0" >
+									<tr>
+										<td class="deviceWidth" align="right" style="padding:13px 0px 0px 0px">
+											<table  style="background-color:#1C1F2A;" width="200" align="center" border="0" cellpadding="0" cellspacing="0" >
+												<tr>
+													<td align="right" class="center loginbutton" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #000; padding: 0px 0 20px 0;">
+														<a style="border-style: none;" href="http://app.onelogin.com">
+															<img border ="0" alt="Login" src="http://get.onelogin.com/rs/onelogin/images/button-login.png"></a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--End pre-header-->
+
+				<!-- Wrapper -->
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor= "#1C1F2A">
+					<tr>
+						<td align="center">
+							<table class="deviceWidth" width="550px" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF" style="border-collapse:collapse; width:550px; text-align:left;">
+								<tr>
+									<td style="padding:0px 25px 25px;">
+										<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="border-collapse:collapse; text-align:left;">
+											
+											<!-- Header -->
+											<tr>
+												<td>
+													<table class="deviceHeader" width="550px" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF" style="border-collapse:collapse; width:550px; text-align:center;">
+														<tr>
+															<td style="padding: 20px 0px 0px 0px;">
+																<img class= placeholder border="0" alt="Add Users"class="placeholder" src="http://get.onelogin.com/rs/onelogin/images/email2-top-icon.png" style="width:150px;" width="136" align="center">
+															</td>
+														</tr>
+														<tr>
+															<td  style="font-family: Arial helvetica, sans-serif; font-size: 14px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+																<h1 class= "headerTitle" style="font-family: Arial, helvetica, sans-serif; font-size: 35px; font-weight: bold; margin-bottom:0.5em; text-align:center; color: #00A9E0">Create a Branded Experience</h1>
+																<font class= "headerSubTitle" style= "font-size: 18px">For Your OneLogin Users</font>
+															</td>
+														</tr>
+													</table>	
+												</td>
+											</tr>
+											<!-- end header -->
+
+											<!-- greeting -->
+											<tr>
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 16px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+													<hr>
+													<br>
+													<div class="mktEditable" id="greeting">
+														Hi{{lead.First Name:default=}},
+														<br>
+														To create the best experience for your OneLogin users, we recommend branding your OneLogin instance.  OneLogin makes it easy to:
+													</div>
+													</td>
+											</tr>
+											<!-- end greeting -->
+
+											<!-- Create a Sub Domain -->
+																						<tr>
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: .5em; padding: 0em 0em 0em 0em;">
+													<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+														<tr>
+															<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: 1em 0em 0em 0em; width: 350px; padding:4px">
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em 0em 0em;">
+																	<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 18px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">1. Create a Subdomain:</h3>
+																	</td>
+																</tr>
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+																	Create a subdomain (yourcompany.onelgin.com) for your OneLogin instance that is uniquely yours.
+																	</td>
+																</tr>
+															</td>
+														<tr>
+													</table>	
+												</td>
+											</tr>
+											<!-- END Create a sub Domain -->
+
+											<!-- Customize Look and feel -->
+											<tr>											<tr>
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: .5em; padding: 0em 0em 0em 0em;">
+													<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+														<tr>
+															<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: 1em 0em 0em 0em; width: 350px; padding:4px">
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em 0em 0em;">
+																	<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 18px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">2. Customize Look and Feel:</h3>
+																	</td>
+																</tr>
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+																	Add your company logo and select the colors for your OneLogin portal.
+																	</td>
+																</tr>
+															</td>
+														<tr>
+													</table>	
+												</td>
+											</tr>
+											<!-- END Customize Look and feel -->
+
+											<!-- Generate a Custom invitation -->
+											<tr>											<tr>
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: .5em; padding: 0em 0em 0em 0em;">
+													<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+														<tr>
+															<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: 1em 0em 0em 0em; width: 350px; padding:4px">
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em 0em 0em;">
+																	<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 18px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">3. Generate a Custom invitation </h3>
+																	</td>
+																</tr>
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+																	Invite new users to your OneLogin instance and include instructions that work with your onboarding process. 
+																	</td>
+																</tr>
+															</td>
+														<tr>
+													</table>	
+												</td>
+											</tr>
+											<!-- END Generate a Custom invitation -->
+
+											<!-- Setup a "password reset" -->
+											<tr>											<tr>
+												<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: .5em; padding: 0em 0em 0em 0em;">
+													<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+														<tr>
+															<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: 1em 0em 0em 0em; width: 350px; padding:4px">
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em 0em 0em;">
+																	<h3 style="font-family: Arial, helvetica, sans-serif; font-size: 18px; font-weight: bold;  margin-top:0em; margin-bottom:0em; display:inline-block">4. Setup a “password reset” experience</h3>
+																	</td>
+																</tr>
+																<tr>
+																	<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em .5em 0em;">
+																	Define a password reset experience that works for you.
+																	</td>
+																</tr>
+															</td>
+														<tr>
+													</table>	
+												</td>
+											</tr>
+											<!-- END Setup a "password reset" -->
+
+											<!--  	Button -->
+											<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 18px; line-height: 1.5em; padding: .5em 0em .5em 0em;"align="center">
+												<a style="border-style: none;" href="http://app.onelogin.com">
+													<img border ="0" alt="Get Started"class="button" src="http://get.onelogin.com/rs/onelogin/images/Login_Button_Welcome_Nurture.png" ></a>
+											</td>
+										</tr>
+										<tr>
+											<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 16px; line-height: 1.5em;padding: 0em 0em 0em 0em;text-align:center;"> <font><div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #000;" class="mktEditable" id="footerText">- The OneLogin Team</div></font> 
+											</td>
+										</tr>
+										<!--  	END Button -->
+
+										<!-- 	Footer Section -->
+										<tr>
+											<td class="body_Copy" style="font-family: Arial helvetica, sans-serif; font-size: 12px; line-height: 1.5em;padding: .5em 0em .5em 0em;text-align:center;" border="0" cellpadding="0" cellspacing="0"> 
+										</tr>
+										<!-- END Footer section -->
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<!--Graphics-->
+				<table class="deviceWidth" width="550" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; align:center; width:550px;">
+					<tr>
+						<td class="bottompad" >
+							<table class="deviceWidth center" width="550" border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse; width:550px; background-color:#1C1F2A;">
+								<tr>
+									<td class="deviceWidth center" align="center" style="padding: 20px 0px 0px 0px; font-family: Arial helvetica, sans-serif; font-size: 18px; color:#00A9E0; line-height: 1.5em;">
+										<div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #00A9E0;" class="mktEditable" id="coptRight">
+											<span class = "appleLinks">Copyright &copy; OneLogin - All Rights Reserved.</span>
+										</div>
+										<div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 1.5em; color: #00A9E0;" class="mktEditable" id="address">
+											<span class = "appleLinks">
+												OneLogin, Inc. 150 Spear Street, San Francisco, CA 94105
+												<a href="#" style="color:#00A9E0; text-decoration:none">(855) 426-7227</a>
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</tabel>
+			</table>
+			<!--End Graphics-->
+</body>
+</html>
